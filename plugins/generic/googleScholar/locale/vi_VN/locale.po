@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+
+
+msgid "plugins.generic.googleScholar.name"
+msgstr "Google Scholar Indexing Plugin"
+
+msgid "plugins.generic.googleScholar.description"
+msgstr "This plugin enables indexing of published content in Google Scholar."

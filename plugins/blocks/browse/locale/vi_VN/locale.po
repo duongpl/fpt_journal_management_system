@@ -1,0 +1,15 @@
+msgid ""
+msgstr ""
+
+
+msgid "plugins.block.browse"
+msgstr "Browse"
+
+msgid "plugins.block.browse.displayName"
+msgstr "Browse Block"
+
+msgid "plugins.block.browse.description"
+msgstr "This plugin provides sidebar \"browse\" tools."
+
+msgid "plugins.block.browse.category"
+msgstr "Categories"

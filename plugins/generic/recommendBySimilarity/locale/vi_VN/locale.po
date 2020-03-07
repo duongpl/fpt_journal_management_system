@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+
+
+msgid "plugins.generic.recommendBySimilarity.displayName"
+msgstr "Recommend Similar Articles"
+
+msgid "plugins.generic.recommendBySimilarity.description"
+msgstr "This plugin adds a list of similar articles to the article abstract page."
+
+msgid "plugins.generic.recommendBySimilarity.heading"
+msgstr "Similar Articles"
+
+msgid "plugins.generic.recommendBySimilarity.advancedSearchIntro"
+msgstr "You may also {$advancedSearchLink} for this article."
+
+msgid "plugins.generic.recommendBySimilarity.advancedSearch"
+msgstr "start an advanced similarity search"

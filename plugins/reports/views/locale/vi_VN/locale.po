@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+
+
+msgid "plugins.reports.views.displayName"
+msgstr "View Report"
+
+msgid "plugins.reports.views.description"
+msgstr "This plugin implements a CSV report describing readership for each article."
+
+msgid "plugins.reports.views.articleId"
+msgstr "Article ID"
+
+msgid "plugins.reports.views.articleTitle"
+msgstr "Article Title"
+
+msgid "plugins.reports.views.datePublished"
+msgstr "Date Published"
+
+msgid "plugins.reports.views.abstractViews"
+msgstr "Abstract Views"
+
+msgid "plugins.reports.views.galleyViews"
+msgstr "Total Galley Views"

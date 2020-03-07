@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+
+
+msgid "plugins.block.developedBy.displayName"
+msgstr "\"Developed By\" Block"
+
+msgid "plugins.block.developedBy.description"
+msgstr "This plugin provides sidebar \"Developed By\" link."

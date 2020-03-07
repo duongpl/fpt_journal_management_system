@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+
+
+msgid "plugins.paymethod.manual.displayName"
+msgstr "Manual Fee Payment"
+
+msgid "plugins.paymethod.manual.description"
+msgstr "The manager will manually record receipt of a user's payment (outside of this software)."
+
+msgid "plugins.paymethod.manual"
+msgstr "Manual Fee Payment"
+
+msgid "plugins.paymethod.manual.settings"
+msgstr "Manual Payment Instructions"
+
+msgid "plugins.paymethod.manual.sendNotificationOfPayment"
+msgstr "Send notification of payment"
+
+msgid "plugins.paymethod.manual.paymentNotification"
+msgstr "Payment Notification"
+
+msgid "plugins.paymethod.manual.notificationSent"
+msgstr "Payment notification sent"
+
+msgid "plugins.paymethod.manual.purchase.title"
+msgstr "Title"
+
+msgid "plugins.paymethod.manual.purchase.fee"
+msgstr "Fee"

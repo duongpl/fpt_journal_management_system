@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+
+
+msgid "plugins.generic.usageEvent.displayName"
+msgstr "Usage event"
+
+msgid "plugins.generic.usageEvent.description"
+msgstr "Creates a hook that provides usage event in a defined format."

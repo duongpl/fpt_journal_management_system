@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+
+
+msgid "plugins.OAIMetadata.rfc1807.displayName"
+msgstr "RFC1807 Metadata Format"
+
+msgid "plugins.OAIMetadata.rfc1807.description"
+msgstr "Structures metadata in a way that is consistent with the RFC1807 format."

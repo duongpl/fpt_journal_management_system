@@ -1,0 +1,12 @@
+msgid ""
+msgstr ""
+
+
+msgid "plugins.block.makeSubmission.displayName"
+msgstr "\"Make a Submission\" Block"
+
+msgid "plugins.block.makeSubmission.description"
+msgstr "This plugin provides a sidebar block with a \"Make a Submission\" link."
+
+msgid "plugins.block.makeSubmission.linkLabel"
+msgstr "Make a Submission"

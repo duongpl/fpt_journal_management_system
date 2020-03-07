@@ -1,0 +1,15 @@
+msgid ""
+msgstr ""
+
+
+msgid "plugins.gateways.resolver.displayName"
+msgstr "Resolver Plugin"
+
+msgid "plugins.gateways.resolver.description"
+msgstr "This plugin resolves issues and articles based on citation information."
+
+msgid "plugins.gateways.resolver.errors.errorMessage"
+msgstr "Unable to resolve a single entity using the specified citation information. Please ensure that the citation information is comprehensive and refers to an entity in this deployment of OJS."
+
+msgid "plugins.gateways.resolver.exportHoldings"
+msgstr "Export Holdings"

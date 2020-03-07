@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+
+
+msgid "plugins.generic.htmlArticleGalley.displayName"
+msgstr "HTML Article Galley"
+
+msgid "plugins.generic.htmlArticleGalley.description"
+msgstr "This plugin provides rendering support for HTML Article Galleys."

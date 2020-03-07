@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+
+
+msgid "plugins.metadata.mods34.articleAdapter.displayName"
+msgstr "MODS 3.4 Article Adapter"
+
+msgid "plugins.metadata.mods34.articleAdapter.description"
+msgstr "Extracts/injects meta-data from/into articles."

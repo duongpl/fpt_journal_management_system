@@ -1,0 +1,12 @@
+msgid ""
+msgstr ""
+
+
+msgid "plugins.reports.articles.displayName"
+msgstr "Articles Report"
+
+msgid "plugins.reports.articles.description"
+msgstr "This plugin implements a CSV report containing a list of articles and their info."
+
+msgid "plugins.reports.articles.nodecision"
+msgstr "No Decision"

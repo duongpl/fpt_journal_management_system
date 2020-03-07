@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+
+
+msgid "plugins.generic.driver.displayName"
+msgstr "DRIVER"
+
+msgid "plugins.generic.driver.description"
+msgstr "The DRIVER plugin extends the OAI-PMH interface according to the DRIVER Guidelines 2.0, helping OJS journals to become DRIVER compliant."

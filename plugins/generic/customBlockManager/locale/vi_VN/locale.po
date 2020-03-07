@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+
+
+msgid "plugins.generic.customBlockManager.displayName"
+msgstr "Custom Block Manager"
+
+msgid "plugins.generic.customBlockManager.manage"
+msgstr "Manage Custom Blocks"
+
+msgid "plugins.generic.customBlockManager.description"
+msgstr "This Plugin lets you manage (add, edit and delete) custom sidebar blocks."
+
+msgid "plugins.generic.customBlockManager.customBlocks"
+msgstr "Custom Blocks"
+
+msgid "plugins.generic.customBlockManager.blockName"
+msgstr "Block Name"
+
+msgid "plugins.generic.customBlockManager.addBlock"
+msgstr "Add Block"
+
+msgid "plugins.generic.customBlockManager.noneCreated"
+msgstr "No custom blocks have been created."
+
+msgid "plugins.generic.customBlock.content"
+msgstr "Content"
+
+msgid "plugins.generic.customBlock.nameSuffix"
+msgstr "(Custom Block)"
+
+msgid "plugins.generic.customBlock.description"
+msgstr "This is a user-generated block."
+
+msgid "plugins.generic.customBlock.nameRequired"
+msgstr "The custom block name is required."
+
+msgid "plugins.generic.customBlock.nameRegEx"
+msgstr "The custom block name must contain only letters, numbers, and hyphens/underscores."

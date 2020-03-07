@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+
+
+msgid "plugins.paymethod.paypal.displayName"
+msgstr "Paypal Fee Payment"
+
+msgid "plugins.paymethod.paypal.description"
+msgstr "Payments will be processed using the PayPal service."
+
+msgid "plugins.paymethod.paypal"
+msgstr "Paypal Fee Payment"
+
+msgid "plugins.paymethod.paypal.settings"
+msgstr "Paypal Payment Settings"
+
+msgid "plugins.paymethod.paypal.settings.testMode"
+msgstr "Test Mode"
+
+msgid "plugins.paymethod.paypal.settings.accountName"
+msgstr "Account Name"
+
+msgid "plugins.paymethod.paypal.settings.clientId"
+msgstr "Client ID"
+
+msgid "plugins.paymethod.paypal.settings.secret"
+msgstr "Secret"
+
+msgid "plugins.paymethod.paypal.error"
+msgstr "A transaction error occurred. Please contact the journal manager for details."

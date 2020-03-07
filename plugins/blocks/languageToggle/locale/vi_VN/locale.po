@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+
+
+msgid "plugins.block.languageToggle.displayName"
+msgstr "Language Toggle Block"
+
+msgid "plugins.block.languageToggle.description"
+msgstr "This plugin provides the sidebar language toggler."

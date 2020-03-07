@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+
+
+msgid "plugins.OAIMetadata.marc.displayName"
+msgstr "MARC Metadata Format"
+
+msgid "plugins.OAIMetadata.marc.description"
+msgstr "Structures metadata in a way that is consistent with the MARC format."

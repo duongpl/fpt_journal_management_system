@@ -1,0 +1,12 @@
+msgid ""
+msgstr ""
+
+
+msgid "plugins.block.information.displayName"
+msgstr "Information Block"
+
+msgid "plugins.block.information.description"
+msgstr "This plugin provides sidebar information link."
+
+msgid "plugins.block.information.link"
+msgstr "Information"

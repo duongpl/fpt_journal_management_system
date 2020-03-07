@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+
+
+msgid "plugins.generic.pdfJsViewer.name"
+msgstr "PDF.JS PDF Viewer"
+
+msgid "plugins.generic.pdfJsViewer.description"
+msgstr "This plugin uses the <a href=\"http://mozilla.github.io/pdf.js\">pdf.js PDF viewer</a> to embed PDFs on the article and issue galley view pages."

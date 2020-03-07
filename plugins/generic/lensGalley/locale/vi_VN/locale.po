@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+
+
+msgid "plugins.generic.lensGalley.displayName"
+msgstr "eLife Lens Article Viewer"
+
+msgid "plugins.generic.lensGalley.description"
+msgstr "This plugin provides rendering support for JATS XML galleys using eLife Lens."

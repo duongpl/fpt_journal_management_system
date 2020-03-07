@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+
+
+msgid "plugins.generic.dublinCoreMeta.name"
+msgstr "Dublin Core Indexing Plugin"
+
+msgid "plugins.generic.dublinCoreMeta.description"
+msgstr "This plugin embeds Dublin Core meta tags in article views for indexing purposes."

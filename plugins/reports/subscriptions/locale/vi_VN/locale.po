@@ -1,0 +1,15 @@
+msgid ""
+msgstr ""
+
+
+msgid "plugins.reports.subscriptions.displayName"
+msgstr "Subscriptions Report"
+
+msgid "plugins.reports.subscriptions.description"
+msgstr "This plugin implements a CSV report containing a list of subscriptions and their info."
+
+msgid "plugins.reports.subscriptions.institutionMailingAddress"
+msgstr "Institution Mailing Address"
+
+msgid "plugins.reports.subscriptions.ipRanges"
+msgstr "IP Ranges"
